@@ -12,4 +12,4 @@ It's a work in progress. I don't know where this project will go, but for the ti
 
 Anyways, thanks for reading!
 
-PS: I won't be updating this repo frequently. I use Unity Collab to sync work between computers but I do plan on commiting meaningful changes here!
+###### PS: I won't be updating this repo frequently. I use Unity Collab to sync work between computers but I do plan on commiting large changes here!
