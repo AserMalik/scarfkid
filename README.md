@@ -1,5 +1,5 @@
 # ScarfKid
-Unity hobby project
+Unity-based hobby project.
 
 ### What is it?
 It's my Unity-learning lab rat.
