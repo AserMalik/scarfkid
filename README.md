@@ -11,5 +11,3 @@ When I started learning Unity, my goal was to create an extremely fluid and smoo
 It's a work in progress. I don't know where this project will go, but for the time being, it's my learning playground. I hope I can make the time to complete the project and capture it in it's inspirational glory, but I can't say for sure.
 
 Anyways, thanks for reading!
-
-###### PS: I won't be updating this repo frequently. I use Unity Collab to sync work between computers but I do plan on commiting large changes here!
